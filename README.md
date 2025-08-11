@@ -1,9 +1,9 @@
-# IBM_GIT-GITHUB-Commands
-Regarding IBM Trainee
+# C# BASICS
+Regarding Self-Paced Learning Paths
 
 ## IMPORTANT GIT-GITHUB Commands (DAY - 1)
 
-BASIC COMMANDS:
+BASIC COMMANDS (Git-GitHub):
 
 Git is the open-source distributed version control system that facilitates GitHub activities on the laptop or desktop.
 * Track changes to code over time.
